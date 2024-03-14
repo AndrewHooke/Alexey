@@ -5,7 +5,7 @@ body {
 }
 
 header {
-    color: white;
+    color: #333;
     padding: 80px 10px 25px 10px;
     text-align: center;
 }
@@ -22,7 +22,7 @@ header b {
 }
 
 footer {
-    background-color: white;
+    background-color: #333;
     color: #b2e4ed;
     text-align: center;
     padding: 1px;
@@ -66,8 +66,8 @@ a {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: white;
-    color: white;
+    background-color: #333;
+    color: #333;
     display: flex;
     justify-content: space-between;
     padding: 10px 20px;
@@ -83,7 +83,7 @@ a {
 .nav-links a {
     padding: 0.2em;
     font-size: 130%;
-    color: white;
+    color: #333;
     text-decoration: none;
 }
 
@@ -101,7 +101,7 @@ a {
     top: 60px;
     left: 0;
     width: 100%;
-    background-color: white;
+    background-color: #333;
     padding: 10px;
     box-sizing: border-box;
     z-index: 999;
@@ -125,7 +125,7 @@ a {
 .menu-toggle {
     padding: 0.2em;
     font-size: 130%;
-    color: white;
+    color: #333;
     background-color: #b2e4ed;
 }
 
@@ -136,7 +136,7 @@ a {
 .resume section, #bio {
     width: 90%;
     margin: 0 auto;
-    background-color: white;
+    background-color: #333;
     padding: 40px 20px 20px 20px;
     border-radius: 8px;
     font-size: 13px;
