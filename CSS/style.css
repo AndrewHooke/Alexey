@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans=serif;
     margin: 0;
-    background-color: #d4f4fa;
+    background-color: #b2e4ed;
 }
 
 header {
@@ -23,7 +23,7 @@ header b {
 
 footer {
     background-color: gray;
-    color: #d4f4fa;
+    color: #b2e4ed;
     text-align: center;
     padding: 1px;
 }
@@ -118,7 +118,7 @@ a {
 
 .logo {
     font-size: 160%;
-    color: #d4f4fa;
+    color: #b2e4ed;
     text-decoration: none;
 }
 
@@ -126,11 +126,11 @@ a {
     padding: 0.2em;
     font-size: 130%;
     color: white;
-    background-color: #d4f4fa;
+    background-color: #b2e4ed;
 }
 
 .nav-links a:hover {
-    color: #d4f4fa;
+    color: #b2e4ed;
 }
 
 .resume section, #bio {
@@ -156,6 +156,6 @@ a {
     border: 1px solid #ddd;
 }
 .resume section table th {
-    background-color: #d4f4fa;
+    background-color: #b2e4ed;
     font-weight: bold;
 }
