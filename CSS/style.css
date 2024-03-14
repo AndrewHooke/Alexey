@@ -1,11 +1,11 @@
 body {
     font-family: Arial, sans=serif;
     margin: 0;
-    background-color: #edfffe;
+    background-color: #d4f4fa;
 }
 
 header {
-    color: black;
+    color: gray;
     padding: 80px 10px 25px 10px;
     text-align: center;
 }
@@ -22,8 +22,8 @@ header b {
 }
 
 footer {
-    background-color: #333;
-    color: #ffffff;
+    background-color: gray;
+    color: #d4f4fa;
     text-align: center;
     padding: 1px;
 }
@@ -66,7 +66,7 @@ a {
     top: 0;
     left: 0;
     width: 100%;
-    background-color: #333;
+    background-color: gray;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -101,7 +101,7 @@ a {
     top: 60px;
     left: 0;
     width: 100%;
-    background-color: #333;
+    background-color: gray;
     padding: 10px;
     box-sizing: border-box;
     z-index: 999;
@@ -118,7 +118,7 @@ a {
 
 .logo {
     font-size: 160%;
-    color: #fcba03;
+    color: #d4f4fa;
     text-decoration: none;
 }
 
@@ -126,17 +126,17 @@ a {
     padding: 0.2em;
     font-size: 130%;
     color: white;
-    background-color: #fcba03;
+    background-color: #d4f4fa;
 }
 
 .nav-links a:hover {
-    color: #fcba03;
+    color: #d4f4fa;
 }
 
 .resume section, #bio {
     width: 90%;
     margin: 0 auto;
-    background-color: #fff;
+    background-color: gray;
     padding: 40px 20px 20px 20px;
     border-radius: 8px;
     font-size: 13px;
@@ -156,6 +156,6 @@ a {
     border: 1px solid #ddd;
 }
 .resume section table th {
-    background-color: #f2f2f2;
+    background-color: #d4f4fa;
     font-weight: bold;
 }
